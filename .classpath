@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/redisprovider-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-text-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-configuration-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/dnredisconnectionpool.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/commonutil-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-pool.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/databaseutil-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/redisutils.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/rmqutil-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/mGageCommonUtils-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/redisconnectionpool.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mGageCache/propertyconfigloader.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-dbcp2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/mysql/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/jedis/jedis-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/Fiorano/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/Fiorano/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/UnifiedPlatform/apache/log4j-1.2.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
